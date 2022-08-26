@@ -1,4 +1,4 @@
-google_client_id_secret.txt,
-rd_client_creds.json,
-token.json,
+google_client_id_secret.txt
+rd_client_creds.json
+token.json
 token.pickle
