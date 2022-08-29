@@ -1,1 +1,3 @@
 ?q= label:city particulars details
+
+label:city "transaction alert" after:2021/8/29 before:2022/8/30 
